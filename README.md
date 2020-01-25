@@ -1,4 +1,4 @@
-# Lady-Bug-Tracker
+# Lady-Bug Tracker
 Tech Stack used for this project
 Visual Studio 2019
 C#
